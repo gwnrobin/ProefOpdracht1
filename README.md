@@ -18,13 +18,12 @@ met dit project wil ik graag meer kennis opdoen over shaders en vervolgens om de
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| Game idee | documentatie | shader maken | shader maken | game er omheen | --- |
-|week 1 |
-|week 2 |
+| --- | --- | --- | --- | --- | --- |
+|week 1 | game idee | documentatie | shader | shader | game er omheen |
+|week 2 | game er omheen | game er omheen | finishing touch/inleveren | website | website |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [unity shaders](https://unity3d.com/learn/tutorials/topics/graphics/gentle-introduction-shaders)
+- [tex2Dlod](http://developer.download.nvidia.com/cg/tex2Dlod.html)
