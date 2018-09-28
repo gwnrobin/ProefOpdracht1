@@ -18,7 +18,7 @@ met dit project wil ik graag meer kennis opdoen over shaders en vervolgens om de
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-|  | Game idee | documentatie | shader maken | shader maken | game er omheen |
+| Game idee | documentatie | shader maken | shader maken | game er omheen | --- |
 |week 1 |
 |week 2 |
 
